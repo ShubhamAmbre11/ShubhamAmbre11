@@ -1,4 +1,4 @@
-![logo](https://github.com/ShubhamAmbre11/ShubhamAmbre11/assets/167287276/34f96a96-2852-4936-b84a-d21283c45ca8.png)
+![logo](https://github.com/ShubhamAmbre11/ShubhamAmbre11/assets/167287276/664527ae-a251-43ec-a9d0-eeb0be47c811.png)
 
 
 <h1 align="center">Hi 👋, I'm Shubham Ambre</h1>
